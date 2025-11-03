@@ -43,7 +43,7 @@ Survey_Salary_Analysis_Project/
 ## Power BI Dashboard Gallery
 
 <p align="center">
-  <img src="5.screenshots/powerbi/Overview.png" width="48%" />
+  <img src="5.screenshots/powerbi/1.Overview.png" width="48%" />
   <img src="5.screenshots/powerbi/2.Gender_Analysis.png" width="48%" />
 </p>
 
